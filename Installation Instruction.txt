@@ -1,0 +1,38 @@
+Template Name: WikiWP
+Demo: http://wptb-wikiwp.blogspot.com
+URL: http://www.wordpresstoblogger.com
+
+Installation Instruction.
+
+1. How to install?
+Extract WikiWP.zip.
+After login, goto Design > Edit HTML > Backup / Restore Template > click Browse > choose WikiWP.xml > click Upload > View Blog.
+
+
+2. Pages (Home, About & Contact)
+
+Goto http://buzz.blogger.com/2010/02/create-pages-in-blogger.html. Read & follow instructions.
+
+Pages widget already added.
+
+
+3. Archives 
+Goto Design > Page Elements > edit Archives > Style - Flat List > Date Format: Month - January 2006
+
+Save.
+
+
+4. Read more function
+Change your post editor, goto Settings > Basic > Select post editor > Updated editor > Save Settings
+
+Goto http://www.google.com/support/blogger/bin/answer.py?answer=154172. Read & follow instructions.
+
+
+5. Logo
+Goto Design > Edit HTML > Edit Template > find
+
+<img src='http://www.opendrive.com/files/6964793_Rqv2v/logo.png'/>
+
+Change http://www.opendrive.com/files/6964793_Rqv2v/logo.png to your logo url.
+
+Save Template.
